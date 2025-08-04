@@ -47,7 +47,7 @@ class IDCard extends StatelessWidget {
               // CircleAvatar for profile image
               const CircleAvatar(
                 radius: 40,
-                backgroundImage: AssetImage('assets/profile.png'), // Add your image
+                backgroundImage: AssetImage('assets/profile.png'), // image
               ),
 
               const SizedBox(height: 10),
